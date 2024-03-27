@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "Moralerspace Xeon NF";
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url(ttf/MoralerspaceXeonNF-Regular.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Moralerspace Xeon NF";
+	font-style: italic;
+	font-weight: normal;
+	font-display: swap;
+	src: url(ttf/MoralerspaceXeonNF-Italic.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Moralerspace Xeon NF";
+	font-style: normal;
+	font-weight: bold;
+	font-display: swap;
+	src: url(ttf/MoralerspaceXeonNF-Bold.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Moralerspace Xeon NF";
+	font-style: italic;
+	font-weight: bold;
+	font-display: swap;
+	src: url(ttf/MoralerspaceXeonNF-BoldItalic.ttf) format("truetype");
+}

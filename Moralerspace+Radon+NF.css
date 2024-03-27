@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "Moralerspace Radon NF";
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url(ttf/MoralerspaceRadonNF-Regular.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Moralerspace Radon NF";
+	font-style: italic;
+	font-weight: normal;
+	font-display: swap;
+	src: url(ttf/MoralerspaceRadonNF-Italic.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Moralerspace Radon NF";
+	font-style: normal;
+	font-weight: bold;
+	font-display: swap;
+	src: url(ttf/MoralerspaceRadonNF-Bold.ttf) format("truetype");
+}
+@font-face {
+	font-family: "Moralerspace Radon NF";
+	font-style: italic;
+	font-weight: bold;
+	font-display: swap;
+	src: url(ttf/MoralerspaceRadonNF-BoldItalic.ttf) format("truetype");
+}
