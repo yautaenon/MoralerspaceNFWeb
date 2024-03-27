@@ -10,19 +10,19 @@
 	font-style: italic;
 	font-weight: normal;
 	font-display: swap;
-	src: url();
+	src: url(ttf/MoralerspaceArgonNF-Italic.ttf) format("truetype");
 }
 @font-face {
 	font-family: "Moralerspace Argon NF";
 	font-style: normal;
 	font-weight: bold;
 	font-display: swap;
-	src: url();
+	src: url(ttf/MoralerspaceArgonNF-Bold.ttf) format("truetype");
 }
 @font-face {
 	font-family: "Moralerspace Argon NF";
 	font-style: italic;
 	font-weight: bold;
 	font-display: swap;
-	src: url();
+	src: url(ttf/MoralerspaceArgonNF-BoldItalic.ttf) format("truetype");
 }
